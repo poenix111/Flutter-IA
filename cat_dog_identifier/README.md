@@ -1,5 +1,7 @@
 # Cat & Dog Identifier
-<img src="https://github.com/poenix111/Flutter-IA/tree/main/assets/cat_dog_identifier/splashscreen.gif" />
+<img src="https://raw.githubusercontent.com/poenix111/Flutter-IA/main/assets/cat_dog_identifier/splashscreen.gif" width=150 />
+
+<img src="https://raw.githubusercontent.com/poenix111/Flutter-IA/main/assets/cat_dog_identifier/test.jpg" width=150 />
 
 
 
